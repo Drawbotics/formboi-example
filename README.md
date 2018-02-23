@@ -5,7 +5,7 @@ This is an example project showcasing [formboi](https://github.com/Drawbotics/fo
 To run this project simply clone the repository and run the following command in the project folder:
 
 ```bash
-yarn install && yarn start
+$ yarn install && yarn start
 ```
 
 ## LICENSE
